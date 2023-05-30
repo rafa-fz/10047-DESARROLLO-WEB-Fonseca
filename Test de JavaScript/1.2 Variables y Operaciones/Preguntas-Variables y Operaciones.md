@@ -10,6 +10,7 @@ Declarar una variable es crearla y asignarle un nombre sin ningún valor, mientr
 
 ### ¿Cuál es la diferencia entre sumar números y concatenar strings?
 Que con el operador +, si dos valores son integer o un float, los va a sumar, mientras que si alguno de los dos es un string lo va a concatenar
+
 ### ¿Cuál operador me permite sumar o concatenar?
 El operador '**+**'
 

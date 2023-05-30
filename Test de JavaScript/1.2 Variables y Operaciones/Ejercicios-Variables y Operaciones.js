@@ -9,6 +9,7 @@ let mayorEdad = true
 let dineroAhorrado = 25000
 let deudas = 15000
 
+
 // 1.2.4 Calcula e imprime las siguientes variables a partir de las variables del ejemplo anterior:
 // • Nombre completo (nombre y apellido)
 let nombreCompleto = nombre + " " + apellido;
